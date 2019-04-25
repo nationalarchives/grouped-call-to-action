@@ -8,3 +8,5 @@ The design challenge here has three main components:
     * promoting download as the primary CTA
     * users that would benefit from being presented with other parts of the details page (record description, heirarchy etc.) in order to decided if this is a record they'd like to see
     * those users that simply need the ways of access on arrival on the page
+
+Note: while we're focussed on TNA digital records we'd need (at a later date) to consider how this approach would apply to records from other archives.
